@@ -1,5 +1,5 @@
-classes= 1
-train = /home/ahmadvsmsouti/code/alex_fyp/darknet/data/train.txt
-valid = /home/ahmadvsmsouti/code/alex_fyp/darknet/data/test.txt
-names = /home/ahmadvsmsouti/code/alex_fyp/darknet/data/obj.names
-backup = /home/ahmadvsmsouti/code/alex_fyp/darknet/backup/
+classes= 2
+train = /Users/AhmadM/code/alex_fyp/mydarknet/darknet/data/train.txt
+valid = /Users/AhmadM/code/alex_fyp/mydarknet/darknet/data/test.txt
+names = /Users/AhmadM/code/alex_fyp/mydarknet/darknet/data/obj.names
+backup = /Users/AhmadM/code/alex_fyp/mydarknet/darknet/backup/

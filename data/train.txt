@@ -1,236 +1,538 @@
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-1.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-100.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-101.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-102.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-103.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-104.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-105.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-106.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-107.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-109.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-110.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-111.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-112.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-113.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-114.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-115.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-116.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-117.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-119.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-12.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-120.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-121.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-122.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-123.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-124.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-125.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-126.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-128.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-129.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-13.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-130.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-131.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-132.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-133.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-134.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-135.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-137.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-138.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-139.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-14.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-140.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-141.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-142.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-143.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-144.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-146.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-147.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-148.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-149.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-15.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-150.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-151.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-152.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-153.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-155.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-156.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-157.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-158.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-159.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-16.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-160.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-161.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-162.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-164.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-165.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-166.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-167.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-168.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-169.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-17.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-170.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-171.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-173.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-174.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-175.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-176.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-177.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-178.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-179.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-18.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-180.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-182.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-183.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-184.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-185.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-186.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-187.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-188.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-189.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-19.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-191.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-192.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-193.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-194.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-195.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-196.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-197.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-198.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-199.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-200.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-201.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-202.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-203.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-204.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-205.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-206.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-207.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-208.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-21.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-210.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-211.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-212.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-213.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-214.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-215.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-216.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-217.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-219.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-22.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-220.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-226.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-227.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-228.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-229.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-23.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-230.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-232.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-233.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-234.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-235.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-236.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-237.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-238.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-239.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-24.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-241.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-242.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-243.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-244.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-245.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-246.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-247.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-248.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-249.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-250.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-251.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-252.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-253.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-254.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-255.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-256.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-257.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-258.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-26.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-260.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-261.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-262.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-263.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-264.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-265.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-266.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-267.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-269.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-27.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-270.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-271.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-272.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-273.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-274.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-275.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-276.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-28.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-29.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-30.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-31.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-32.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-33.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-34.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-35.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-36.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-38.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-39.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-40.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-41.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-42.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-43.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-44.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-45.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-46.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-48.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-49.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-50.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-51.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-52.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-53.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-54.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-55.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-56.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-58.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-59.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-60.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-61.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-62.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-63.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-64.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-65.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-66.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-68.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-69.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-70.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-71.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-72.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-73.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-74.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-75.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-76.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-78.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-79.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-80.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-81.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-82.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-83.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-84.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-85.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-86.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-88.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-89.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-90.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-91.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-92.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-93.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-94.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-95.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-96.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-98.jpg
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/nfpa_data/pos-99.jpg
+/Users/AhmadM/code/darknet/data/images/IMG_1375 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1217 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1305 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1267 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0558.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1239 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0389.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0362.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0404.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0376.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1112 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0438.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1249 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1162 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1337 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1255 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1183 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1091 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0411.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1347 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0377.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0363.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0405.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1225 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0388.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0559.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1319 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1150 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1369 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1120 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1293 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1145 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1135 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1322 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0375.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0413.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1240 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0361.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0349.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1196 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1352 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1230 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1098 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1107 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0348.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0360.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0374.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0412.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1177 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1129 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1360 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1202 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1159 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1310 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1235 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1357 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1245 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1193 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1327 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1130 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0358.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0416.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0370.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0402.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1296 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1309 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1140 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1277 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1315 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0365.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0403.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0417.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0371.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0359.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1365 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1172 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1259 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1102 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1229 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1167 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1117 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0549.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0561.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1262 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0398.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1149 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0429.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0401.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1300 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0367.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0415.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1212 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1139 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1370 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1125 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0372.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0414.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0400.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0366.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1155 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0428.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0399.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0560.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1220 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0548.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1094 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1342 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1250 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1332 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1341 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1108 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1097 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1223 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1331 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1178 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0513.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0275.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0261.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0507.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1253 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0498.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1126 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0467.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0301.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0315.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0473.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1156 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1280 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1303 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1261 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0328.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1373 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0314.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0472.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0466.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0499.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1211 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0260.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0506.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0512.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1199 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0274.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1164 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1114 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1338 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0289.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0504.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0262.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0276.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1101 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0510.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0538.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1348 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1316 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0470.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0316.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0302.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0464.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1274 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0458.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1366 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1204 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1133 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0459.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1268 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0303.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0465.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0471.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0317.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1143 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1295 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1354 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0277.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0511.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0505.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0263.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0288.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1236 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1324 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1190 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1201 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1363 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0298.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1271 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0529.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1313 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0267.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0501.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0515.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1104 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0449.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0313.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0475.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0461.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0307.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1174 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1189 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1195 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1321 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1168 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0460.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0306.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0312.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0474.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0448.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1233 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1351 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1118 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0514.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0272.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0266.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1146 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0500.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0528.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1290 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0299.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1153 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1285 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1278 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1123 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1208 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0258.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0270.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0516.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0502.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0489.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1180 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1256 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0338.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1334 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0304.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0462.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0476.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0310.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1344 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1092 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1111 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1358 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0477.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0311.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1161 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0305.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0463.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0339.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0488.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0503.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0265.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0271.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0517.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1214 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0259.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1376 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1306 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1299 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1154 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1282 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0297.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0283.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0532.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0526.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1124 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0485.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0491.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1333 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0446.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0320.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1187 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0334.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0452.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1251 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1343 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1095 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1221 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1089 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1116 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0309.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0335.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0453.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0447.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1166 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0490.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0484.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1371 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0269.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0527.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0533.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1138 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0282.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0296.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1301 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1148 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1263 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1364 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1206 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1314 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0280.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0294.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0531.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0519.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1276 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0492.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1228 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0486.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1103 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0451.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0337.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0445.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0479.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1258 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1173 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1326 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1192 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1244 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1356 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0478.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0444.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0450.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0336.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0487.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1234 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0493.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0518.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0530.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0524.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0295.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1308 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0281.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1297 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1131 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1378 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1176 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1106 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1099 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0291.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0508.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0520.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0534.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1273 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0497.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0483.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0468.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1311 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0332.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0454.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0440.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0326.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1203 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1361 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1128 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1134 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0441.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0327.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0333.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0455.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1292 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0469.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0482.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0496.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0535.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0521.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1231 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1353 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0290.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0284.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1197 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1241 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1323 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1224 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1346 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1182 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0292.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1254 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0286.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1336 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0279.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0537.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0523.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1121 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0494.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1368 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0319.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0325.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0443.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0457.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0331.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1151 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1287 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1266 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1304 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0456.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0330.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0324.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0442.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0318.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1216 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0495.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0481.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0522.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1163 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0536.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0278.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0287.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1248 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0293.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1113 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1329 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1160 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0551.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0545.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1359 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1110 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0380.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0394.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1298 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0343.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0425.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0431.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0357.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1265 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0419.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1377 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1215 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1209 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0418.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0430.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0356.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1279 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0342.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0424.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1284 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0395.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0381.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1093 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0544.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1345 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0550.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1227 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1335 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1257 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1181 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1119 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1350 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1232 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1169 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1320 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1242 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0546.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0552.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1194 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0397.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0354.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0432.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0426.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0340.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0368.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1137 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1291 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1147 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1312 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0369.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0427.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0341.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1362 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0355.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0433.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1200 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0382.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0396.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0553.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0547.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1175 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1105 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1294 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1142 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1269 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1132 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0543.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0557.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1247 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0392.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1191 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0386.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0379.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1325 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0437.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0351.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0423.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1237 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1355 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1349 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1100 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0344.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0422.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1339 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0436.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0378.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1170 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0387.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0393.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1205 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0556.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0542.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1367 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1275 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1288 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1210 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1372 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1260 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0554.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0540.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1302 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0385.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0391.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0408.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0420.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0346.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0352.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0434.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1165 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1198 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1252 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1184 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1330 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0353.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0435.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0421.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1222 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0347.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0409.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1096 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0390.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0384.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1340 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1281 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0541.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_0555.JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1157 (Small).JPG
+/Users/AhmadM/code/darknet/data/images/IMG_1127 (Small).JPG
