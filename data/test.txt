@@ -1,59 +1,67 @@
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_0410.JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_0439.JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_1286 (Small).JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_0407.JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_0406.JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_1272 (Small).JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_0364.JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_1207 (Small).JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_1088 (Small).JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_0373.JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_1283 (Small).JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_1186 (Small).JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_1185 (Small).JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_0329.JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_0300.JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_1171 (Small).JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_1289 (Small).JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_1218 (Small).JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_0539.JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_1246 (Small).JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_0273.JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_1243 (Small).JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_1087 (Small).JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_1136 (Small).JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_0264.JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_1226 (Small).JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_1328 (Small).JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_1264 (Small).JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_0268.JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_0308.JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_0321.JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_1213 (Small).JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_0525.JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_0323.JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_0322.JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_1141 (Small).JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_0285.JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_1158 (Small).JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_1144 (Small).JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_0509.JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_1090 (Small).JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_0480.JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_1318 (Small).JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_1374 (Small).JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_1238 (Small).JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_1307 (Small).JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_1122 (Small).JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_1152 (Small).JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_1086 (Small).JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_0383.JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_1270 (Small).JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_1188 (Small).JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_1219 (Small).JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_0345.JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_0350.JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_1317 (Small).JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_1115 (Small).JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_1179 (Small).JPG
-/home/ahmadvsmsouti/code/alex_fyp/darknet/data/images/IMG_1109 (Small).JPG
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_4058.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_4306.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_3865.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_4267.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_3708.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_4107.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_3669.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_4066.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_4089.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_3862.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_4315.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_4077.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_4249.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_4075.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_4303.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_3848.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_4262.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_4013.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_4173.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_4006.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_4212.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_3743.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_3839.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_3795.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_3975.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_4149.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_4028.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_4228.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_3779.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_3803.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_3963.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_3952.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_4191.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_3774.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_4225.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_4031.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_4151.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_4193.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_3788.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_3773.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_4183.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_3835.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_3766.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_4221.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_4180.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_3822.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_3765.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_3925.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_3689.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_4327.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_3878.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_4087.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_4244.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_3715.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_4324.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_3853.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_3933.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_4255.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_3843.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_4320.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_4056.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_4240.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_4097.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_3698.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_4336.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_3699.jpg
+/home/ahmadvsmsouti/code/alex_fyp/darknet/data/Images/IMG_4096.jpg
